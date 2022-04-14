@@ -56,6 +56,14 @@ A description of the data that is being analyzed
  A discussion on how this can be changed, or applied to another data source, and what. needs to be changed for that to work 
  
  
+ 
+Files included
+- data file( intent.json)
+- 2 python file (tk_gui , traindata)
+- 2 pickle file ( Words , classes )
+-  Trained Model ( chatbot_model.h5)
+ 
+ 
  Citations
  
  “What Is a Chatbot?” Oracle, https://www.oracle.com/chatbots/what-is-a-chatbot/. 
