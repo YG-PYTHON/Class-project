@@ -96,3 +96,4 @@ hist = model.fit(np.array(train_x), np.array(train_y), epochs=200, batch_size=5,
 model.save('chatbot_model.h5', hist)
 
 print("model created")
+# In this section of the code, the chatbot is built and trained on the data set
