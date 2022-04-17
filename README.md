@@ -40,18 +40,7 @@ Load the trained model 'chatbot.model and write a function to perform text procc
 traindata.py – In this Python file, we wrote a script to build the model and train our chatbot.
 tk_gui.py – This is the Python script to implement GUI for chatbot.
 
-How you run the code
- 
-what libraries are needed
 
-what needs to be installed to use it
-
-A description of the data that is being analyzed
-
- Intent.json: The data file which has predefined patterns and responses.
- 
- What methods are being used to analyze itv
- 
  
  A discussion on how this can be changed, or applied to another data source, and what. needs to be changed for that to work 
  
