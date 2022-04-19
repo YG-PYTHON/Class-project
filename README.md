@@ -37,13 +37,9 @@ Load the 'words.pkl' and 'classes.pkl'
 Load the trained model 'chatbot.model and write a function to perform text proccessing and predict the class then retrieve the approperaite response . 
 
 
-traindata.py – In this Python file, we wrote a script to build the model and train our chatbot.
+traindata.py – In this Python file, a written script to build the model and train our chatbot.
 tk_gui.py – This is the Python script to implement GUI for chatbot.
 
-
- 
- A discussion on how this can be changed, or applied to another data source, and what. needs to be changed for that to work 
- 
  
  
 Files included
