@@ -51,7 +51,8 @@ Files included
  
  Citations
  
- “What Is a Chatbot?” Oracle, https://www.oracle.com/chatbots/what-is-a-chatbot/. 
+ “What Is a Chatbot?” Oracle, https://www.oracle.com/chatbots/what-is-a-chatbot/.
+ 
  Codecademy. “What Are Chatbots.” Codecademy, Codecademy, https://www.codecademy.com/article/what-are-chatbots. 
  
 
