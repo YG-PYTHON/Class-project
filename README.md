@@ -38,9 +38,11 @@ Load the trained model 'chatbot.model and write a function to perform text procc
 
 
 traindata.py – In this Python file, a written script to build the model and train our chatbot.
+
 tk_gui.py – This is the Python script to implement GUI for chatbot.
 
- 
+ To apply the code to another data source, first we need to identify the file format and use the required liberary to open and load it
+ usually files used in deep learning have same format 
  
 Files included
 - data file( intent.json)
